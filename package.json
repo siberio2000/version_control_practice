@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Just for test",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siberio2000/version_control_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siberio2000/version_control_practice/issues"
+  },
+  "homepage": "https://github.com/siberio2000/version_control_practice#readme"
+}
